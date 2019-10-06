@@ -58,6 +58,7 @@ fn main(){
     println!("Hello, Github!");
 }
 ```
+#hello
 Name the file `hello_github_yourusername.xx`. e.g., `hello_github_sn99.rs` or `hello_world_alicewonderland.py`.
 
 **Don't forget to include the comments as seen above.**
