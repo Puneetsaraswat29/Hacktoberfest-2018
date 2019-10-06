@@ -57,6 +57,7 @@ Add a `hello_github_yourusername.xx` script to the `hellos` directory in any lan
 fn main(){
     println!("Hello, Github!");
 }
+#hye
 ```
 Name the file `hello_github_yourusername.xx`. e.g., `hello_github_sn99.rs` or `hello_world_alicewonderland.py`.
 
